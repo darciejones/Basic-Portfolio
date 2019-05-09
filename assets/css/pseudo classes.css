@@ -1,0 +1,21 @@
+
+
+a {
+ font size: 88 px;
+
+}
+
+
+a:hover {
+    background-color: yellow;
+}
+
+a:enabled {
+    background-color: royalblue;
+}
+
+a:active
+
+{
+    background-color: chartreuse;
+}
